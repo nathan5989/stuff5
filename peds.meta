@@ -2,7 +2,7 @@
 <CPedModelInfo__InitDataList>
    <InitDatas>
    <Item>
-         <Name>spidermancivilwar</Name>
+         <Name>accs</Name>
          <ClipDictionaryName>move_m@generic</ClipDictionaryName>
          <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
          <Pedtype>CIVMALE</Pedtype>
